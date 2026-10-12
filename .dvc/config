@@ -2,3 +2,5 @@
     remote = lokalny
 ['remote "lokalny"']
     url = C:\dvc-store
+['remote "drugi_remote"']
+    url = C:\dvc-store-2
